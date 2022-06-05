@@ -1,6 +1,6 @@
 # Librery-Manegment-System
 
-# Enrolment_App Required Tool and python package ~ Any Code Editer (python-IDLE, Visual Studio code ,pycharm,Atom)
+# Librery-Manegment-System Required Tool and python package ~ Any Code Editer (python-IDLE, Visual Studio code ,pycharm,Atom)
  python3  <BR>
 pip install django
 open terminal
